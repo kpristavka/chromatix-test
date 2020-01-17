@@ -1,0 +1,16 @@
+{
+  "name": "chromatix-task1",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "task1": "./index.js"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "csv-parser": "2.3.2"
+  },
+  "description": "data processing test",
+  "main": "index.js",
+  "author": "Konstantin Pristavka"
+}
