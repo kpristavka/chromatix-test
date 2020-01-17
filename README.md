@@ -8,3 +8,5 @@ Task 2. Overall result: 11225 ms.
 PS C:\Users\User\Desktop\chromatix test\solution\app3> node index
 Task 3. Read data into Array in: 9257 ms
 Task 3. Overall result: 22069 ms.
+
+I've also cut "node-data-processing-medium-data.csv" to 100 records to check it into github.
